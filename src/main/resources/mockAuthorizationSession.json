@@ -1,0 +1,13 @@
+{
+  "principal": {
+    "sub": "",
+    "type": "",
+    "tenant": "Shopify",
+    "companyUuid": "165efr8c0-53e2-1315-8250-4a7979b5a502"
+  },
+  "authorities": [
+    "ROLE_SHOP_CHANNEL_ADMIN",
+    "ROLE_SHOP_RESELLER",
+    "ROLE_SHOP_INTERNAL"
+  ]
+}
